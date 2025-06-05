@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "dahia8888"         # 用户名
 UUID = "1e0f6d05-efda-4011-be68-aa3bfd2a4b2d"                     # UUID，留空则自动生成
-PORT = 49999                   # Vmess端口，留空或0则自动生成
+PORT = 59999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "steam.kycc.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiNDE1YTE0MDc2MTUxZTdjNDA2ZTRkNjcxNGM4ZTc0NzUiLCJ0IjoiZTM5MDBlNjQtOTA4Ny00OGFmLWIzYzEtM2EzNzIyYTBmNDQ0IiwicyI6IlptTXlPR05qTmpndFpERTBNeTAwWlRFMExXSTFZemN0Tm1ZeU9ERTJaakF3TWpRdyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
